@@ -21,7 +21,7 @@ export default function Intro() {
       <div className="left">
         <div className="imgContainer img-fluid">
            {/* <Image/> */}
-           <img src="/assets/jayr.png" alt="" />
+           <img src="/assets/bgr.png" alt="" />
         </div>
       </div>
       <div className="right">
